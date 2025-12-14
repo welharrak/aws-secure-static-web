@@ -1,2 +1,5 @@
 # aws-secure-static-web
-Secure, Cost-Optimized Static Web AWS using Infrastructure as Code (Terraform)
+Secure, Cost-Optimized Static Web AWS using Terraform
+
+## Architecture Overview
+![Architecture](docs/architecture.png)

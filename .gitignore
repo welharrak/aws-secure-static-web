@@ -1,0 +1,8 @@
+# Ignore Terraform directories and states
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfvars
+
+# Keep lockfile (for consistent provider versions)
+!terraform/.terraform.lock.hcl

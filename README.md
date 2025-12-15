@@ -1,6 +1,8 @@
 # aws-secure-static-web
 This project builds a fully automated, secure, cost-optimized Static Web in AWS using Terraform
-[![Architecture Diagram](docs/architecture.png)](#architecture-diagram)
+<a href="#architecture-diagram">
+  <img src="docs/architecture.png" alt="Architecture Diagram" width="300"/>
+</a>
 
 ## AWS Services
 The project leverages the following AWS services:
